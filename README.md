@@ -15,4 +15,5 @@ I'm a Frontend Developer (Angular)  who is passionate about creating a full webs
 Enthusiastic front-end developer with a passion for creating responsive and user-friendly web applications. Looking to contribute my coding skills and dedication to a dynamic team that values creativity and innovation.
 - 🔭 I'm a Frontend Developer (Angular)
 - 💬 Ask me about **Angular and Frontend**
+
 My Skills: Angular · Angular CLI · TypeScript · Semantic HTML · JSON · SASS · JavaScript Frameworks · jQuery · HTML5 · Front-End Development · HTML · CSS3 · Bootstrap (Framework) · JavaScript · Object-Oriented Programming (OOP) · AJAX · Regex · CRUD
