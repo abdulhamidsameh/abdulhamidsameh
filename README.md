@@ -11,7 +11,7 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-I'm a Frontend Developer (Angular)  who is passionate about creating a full website in different fields, I enjoy working with Typescript and Angular.
+I'm a Frontend Developer (Angular)  who is passionate about creating a full website in different fields, enjoy working with Typescript and Angular.
 Enthusiastic front-end developer with a passion for creating responsive and user-friendly web applications. Looking to contribute my coding skills and dedication to a dynamic team that values creativity and innovation.
 - 🔭 I'm a Frontend Developer (Angular)
 - 💬 Ask me about **Angular and Frontend**
