@@ -11,9 +11,10 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-I'm a Frontend Developer (Angular)  who is passionate about creating a full website in different fields, enjoy working with Typescript and Angular.
-Enthusiastic front-end developer with a passion for creating responsive and user-friendly web applications. Looking to contribute my coding skills and dedication to a dynamic team that values creativity and innovation.
-- 🔭 I'm a Frontend Developer (Angular)
-- 💬 Ask me about **Angular and Frontend**
+I'm a Backend Developer (ASP.NET)  Enthusiastic Junior .NET Developer with a solid foundation in C# and ASP.NET seeking a junior position in a
+professional environment. Eager to contribute to a dynamic team, gain hands-on experience in developing
+scalable web applications, and actively contribute to organizational growth.
+- 🔭 I'm a Backend Developer (ASP.NET)
+- 💬 Ask me about **.NET and Backend**
 
-My Skills: Angular · Angular CLI · TypeScript · Semantic HTML · JSON · SASS · JavaScript Frameworks · jQuery · HTML5 · Front-End Development · HTML · CSS3 · Bootstrap (Framework) · JavaScript · Object-Oriented Programming (OOP) · AJAX · Regex · CRUD
+My Skills: C#, SQL, ASP.NET, Microsoft SQL Server, ASP.NET MVC, ASP.NET Web API, Language Integrated Query (LINQ) and Entity Framework (EF) Core
